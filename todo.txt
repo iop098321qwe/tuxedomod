@@ -1,0 +1,2 @@
+(A) add tux command that will aggregate all todos into a single todo.txt file @feature
+(A) ensure that all are aggregated and added into single todo.txt file when using new command @feature
